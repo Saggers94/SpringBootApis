@@ -1,7 +1,0 @@
-com\springboot\reactAstronauts\exception\ResourceNotFoundException.class
-com\springboot\reactAstronauts\model\Category.class
-com\springboot\reactAstronauts\repository\AstronautRepository.class
-com\springboot\reactAstronauts\controller\AstronautController.class
-com\springboot\reactAstronauts\model\Astronaut.class
-com\springboot\reactAstronauts\model\ServiceEnum.class
-com\springboot\reactAstronauts\SpringbootBackendApiForAstronautsApplication.class
